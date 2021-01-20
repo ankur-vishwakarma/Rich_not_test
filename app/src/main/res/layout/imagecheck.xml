@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="212dp"
+        android:src="@drawable/t"
+        android:id="@+id/image_view"
+    />
+
+    <!--<Button
+        android:id="@+id/sendMessageButton"
+        android:layout_width="12dp"
+        android:layout_height="12dp"
+        android:onClick="playGif"
+        android:text="play gif" />-->
+
+</RelativeLayout>

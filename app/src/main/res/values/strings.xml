@@ -1,0 +1,13 @@
+<resources>
+        <string name="app_name">Audio_nots</string>
+        <string name="back"><![CDATA[<]]></string>
+        <string name="rewind"><![CDATA[<<]]></string>
+        <string name="forward"><![CDATA[>>]]></string>
+        <string name="pause">||</string>
+        <string name="notif_small_desc">I am content of image</string>
+        <string name="content_text">Check out this gif!</string>
+        <string name="ticker_text">this is ticker</string>
+        <string name="new_title">new title</string>
+        <string name="new_content_text">new content</string>
+
+</resources>
