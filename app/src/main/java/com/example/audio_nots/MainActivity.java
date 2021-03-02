@@ -78,7 +78,7 @@ public class MainActivity extends Activity {
         //glidecheck(bitmaps);
 
         //final working
-        //first();
+        first();
         //working 1
         /*setUpNotification();
         try {
